@@ -13,7 +13,7 @@
 <body class="sb-nav-fixed">
 <header>
 <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
-<a class="navbar-brand" href="index.html">SISTEM INFORMASI IKLC</a><<!-- Navbar Search-->
+<a class="navbar-brand" href="index.html">TEST WEB</a><<!-- Navbar Search-->
 <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
 <div class="input-group">
 <input class="form-control" type="text" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2" />
